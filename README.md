@@ -18,5 +18,5 @@ Számozott lista
 
 `soros kód`
 
-
-`
+s
+`s
